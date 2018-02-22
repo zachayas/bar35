@@ -16,7 +16,18 @@ body{
   font-weight: bold;
 }
 
-.bit-text{
+.ui.borderless.menu .item:hover{
+  color: white;
+
+}
+
+.big-text{
+  padding-top: 100px;
+  font-size: 50px;
+  color: white;
+}
+
+.big-text:hover{
   padding-top: 100px;
   font-size: 50px;
   color: white;
